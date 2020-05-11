@@ -305,7 +305,7 @@
                             </comment>
                         </field>
                     </group>
-                    <group id="braintree_local_payment" translate="label" showInDefault="1" showInWebsite="1" showInStore="1" sortOrder="42">
+                    <group id="braintree_local_payment" translate="label" showInDefault="1" showInWebsite="1" showInStore="0" sortOrder="42">
                         <label>Local Payment Methods</label>
                         <comment>
                             All payments made with a Local Payment Method will be treated as an "Intent Sale" payment action.
