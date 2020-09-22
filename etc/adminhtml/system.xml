@@ -128,7 +128,7 @@
                             <frontend_model>Magento\Braintree\Block\Adminhtml\Form\Field\Validation</frontend_model>
                         </field>
                     </group>
-                    <group id="braintree_advanced" translate="label" showInDefault="1" showInWebsite="1" sortOrder="20">
+                    <group id="braintree_advanced" translate="label" showInDefault="1" showInWebsite="1" sortOrder="20" showInStore="1">
                         <label>Advanced Braintree Settings</label>
                         <frontend_model>Magento\Config\Block\System\Config\Form\Fieldset</frontend_model>
                         <field id="braintree_cc_vault_title" translate="label" type="text" sortOrder="20" showInDefault="1" showInWebsite="1" showInStore="0">
